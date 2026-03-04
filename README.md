@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Selin Hazır! 👋
 
-<!--
-**selinhazir/selinhazir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior Computer Engineering student at **Gazi University**, passionate about building high-impact mobile applications and exploring the depths of AI. I bridge the gap between complex Deep Learning models and user-friendly mobile interfaces.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
+- 🤖 **AI & Computer Vision:** Developing an advanced traffic violation detection system using **YOLO** for my graduation project.
+- 📱 **Mobile Development:** Creating seamless experiences with **Flutter, Swift, and Node.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠 Tech Stack
+- **Languages:** Python, C, C++, Swift, Dart, JavaScript (Node.js)
+- **AI/ML:** YOLO, PyTorch, TensorFlow, CNN, GANs
+- **Mobile & Backend:** Flutter, Firebase, Node.js
+- **Networking:** Cisco CCNA Certified (Routing, Switching & Security)
+
+### 🌎 Global Vision
+- 🇺🇸 Participated in **Work and Travel 2025** in the USA, enhancing my adaptability and English proficiency.
+
+---
+📫 **How to reach me:** selinhaziir@gmail.com
